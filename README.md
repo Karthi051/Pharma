@@ -1,4 +1,4 @@
-![Screenshot (25)](https://github.com/Karthi051/Pharma/assets/148327224/f621b77f-b7fe-4706-88e9-3a5af1a3cdf1)# Project Responsive Web Design using Bootstrap
+
 ## Date: 14/5/24
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
