@@ -1,5 +1,5 @@
-# Project Responsive Web Design using Bootstrap
-## Date: 13/5/24
+![Screenshot (25)](https://github.com/Karthi051/Pharma/assets/148327224/f621b77f-b7fe-4706-88e9-3a5af1a3cdf1)# Project Responsive Web Design using Bootstrap
+## Date: 14/5/24
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
 
@@ -25,9 +25,9 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 ## PROGRAM :
-```
-WEB.HTML
 
+
+home.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -77,22 +77,25 @@ WEB.HTML
     <div class="row">
       <div class="col-md-8">
         <h1>Welcome to PharmaCompany</h1>
-        <p>Welcome to PharmaCompany, your trusted source for high-quality pharmaceutical products. We are dedicated to improving the health and well-being of our customers by providing safe and effective medications.</p>
-        <p>At PharmaCompany, we offer a wide range of prescription and over-the-counter medications to meet your healthcare needs. Whether you're managing a chronic condition or simply looking for relief from minor ailments, we have the products you need.</p>
-        <p>In addition to medications, we also carry a variety of healthcare products and accessories, including vitamins, supplements, first aid supplies, and more. Our knowledgeable staff is here to assist you with any questions you may have and to ensure you find the right products for your needs.</p>
+        <p>Welcome to PharmaCompany,our mission is to provide safe, effective, and accessible healthcare solutions to patients worldwide.</p>
+        <p>At PharmaCompany, With a relentless focus on innovation and quality, we are at the forefront of cutting-edge medical advancements, ensuring that every product we create is a testament to our unwavering commitment to excellence..</p>
+        <p>In addition to medications,Pharmacompany are pivotal in creating and distributing drugs, vaccines, and medical devices to enhance human health. </p>
         <p>Thank you for choosing PharmaCompany for your healthcare needs. We look forward to serving you and helping you live a healthier life.</p>
       </div>
       <div class="col-md-4">
-        <img src="image.png" class="img-fluid" alt="Pharmacy Image">
+        <img src="1.jpeg" class="img-fluid" alt="Pharmacy Image">
       </div>
     </div>
   </div>
-  <body background="a.png" style="background-repeat: no-repeat; background-size: cover;">
-
+  <body background="3.pn" style="background-repeat: no-repeat; background-size: cover;">
+  <br>
+  <br>
+  <br>
+  <br>
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; 2024 PharmaCompany. All rights reserved. BY Lingasri</p>
+    <p>&copy; 2024 PharmaCompany. All rights reserved. BY KARTHI KEYAN K(212223230101)</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -101,10 +104,12 @@ WEB.HTML
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
- 
- ABOUT.HTML
 
- <!DOCTYPE html>
+
+
+about.html
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -127,16 +132,8 @@ WEB.HTML
         <li class="nav-item">
           <a class="nav-link" href="web.html">Home</a>
         </li>
-        <li class="nav-item dropdown active">
-          <a class="nav-link dropdown-toggle" href="about.html" id="navbarDropdownAbout" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            About
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdownAbout">
-            <a class="dropdown-item" href="#vision">Vision</a>
-            <a class="dropdown-item" href="#mission">Mission</a>
-            <a class="dropdown-item" href="#values">Values</a>
-            <!-- Add more subheadings as needed -->
-          </div>
+        <li class="nav-item">
+          <a class="nav-link" href="about.html">About</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="product.html">Products</a>
@@ -155,32 +152,31 @@ WEB.HTML
         <h1>About PharmaCompany</h1>
         <div id="vision">
           <h2>Vision</h2>
-          <p>Our vision is to be a leading provider of innovative healthcare solutions that improve the quality of life for people around the world.</p>
+          <p>Our vision is to be a leading pharmaceutical company in India and to become a significant global player by providing high quality, affordable and innovative solutions in medicine and treatment.</p>
         </div>
         <div id="mission">
           <h2>Mission</h2>
-          <p>Our mission is to develop and deliver safe, effective, and affordable medications that address the healthcare needs of our customers.</p>
+          <p>Our mission is to We will discover, develop and successfully market pharmaceutical products to prevent, diagnose, alleviate and cure diseases.</p>
         </div>
         <div id="values">
           <h2>Values</h2>
           <ul>
-            <li>Quality: We are committed to maintaining the highest standards of quality in everything we do.</li>
-            <li>Integrity: We conduct our business with honesty, transparency, and ethical behavior.</li>
-            <li>Innovation: We strive to continuously innovate and improve our products and services to better serve our customers.</li>
-            <li>Customer Focus: We are dedicated to understanding and meeting the needs of our customers.</li>
-            <li>Teamwork: We work together as a team to achieve our goals and deliver exceptional results.</li>
+            <li>Quality:From the very beginning, Quality has been the core of our existence. Unimarckens are persistently putting efforts in manufacturing high-quality products for society.</li>
+            
+            <li>Commitment to Excellence:We believe commitment drives the force for achieving excellence for products to stand at par in the pharmaceutical industry. We pursue </li>
+            <li>Customer-oriented: Being a customer-oriented pharma company, the prospect is to digitalize the business by serving quality pharma products online.</li>
+            <li>Teamwork: “Teamwork makes the dream work.”</li>
           </ul>
         </div>
+        <br>
         <!-- Add more subheadings as needed -->
       </div>
     </div>
   </div>
-  <body background="a.png" style="background-repeat: no-repeat; background-size: cover;">
-
-
+  <body background="4.webp" style="background-repeat: no-repeat; background-size: cover;"></body>
   <!-- Footer -->
-  <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; 2024 PharmaCompany. All rights reserved.  BY Lingasri</p>
+  <footer class="bg-dark text-white text-center py-4 mt-3">
+    <p>&copy; 2024 PharmaCompany. All rights reserved.  BY KARTHI KEYAN K(212223230101)</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -191,7 +187,8 @@ WEB.HTML
 </html>
 
 
-PRODUCT.HTML
+
+product.html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -218,10 +215,18 @@ PRODUCT.HTML
         <li class="nav-item">
           <a class="nav-link" href="about.html">About</a>
         </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="product.html">Products <span class="sr-only">(current)</span></a>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Products
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="#">Over-the-counter (OTC) Medications</a>
+            <a class="dropdown-item" href="#">Prescription Drugs</a>
+            <a class="dropdown-item" href="#">Vaccines</a>
+            <a class="dropdown-item" href="#">Supplements</a>
+          </div>
         </li>
-        <li class="nav-item">
+        <li class="nav-item active">
           <a class="nav-link" href="contact.html">Contact</a>
         </li>
       </ul>
@@ -237,32 +242,40 @@ PRODUCT.HTML
   </nav>
 
   <!-- Page Content -->
-  <div class="container mt-5">
+  <div class="container mt-3">
     <div class="row">
       <div class="col-md-12">
-        <h1>Our Products</h1>
+        <h1>Our Product categories</h1>
         <div class="card-deck">
           <div class="card">
-            <img src="i.png" class="card-img-top" alt="Product 1" width="200" height="200">
+            <img src="5.jpeg" class="card-img-top" alt="Product 1" width="200" height="200">
             <div class="card-body">
-              <h5 class="card-title">Product 1</h5>
-              <p class="card-text">Everherb Karela Jamun Juice - Helps Maintains Healthy Sugar Levels -Helps In Weight Management - 1l.</p>
+              <h5 class="card-title">Over-the-counter (OTC)</h5>
+              <p class="card-text">These drugs you can buy without a prescription. Some OTC medicines relieve aches, pains, and itches.</p>
               <a href="#" class="btn btn-primary">Buy Now</a>
             </div>
           </div>
           <div class="card">
-            <img src="j.png" class="card-img-top" alt="Product 2" width="200" height="200">
+            <img src="6.jpeg" class="card-img-top" alt="Product 2" width="200" height="200">
             <div class="card-body">
-              <h5 class="card-title">Product 2</h5>
-              <p class="card-text">Calcimax Forte Plus Strip Of 30 Tablets.</p>
+              <h5 class="card-title"> prescription drug</h5>
+              <p class="card-text">a pharmaceutical drug that is permitted to be dispensed only to those with a medical prescription.</p>
               <a href="#" class="btn btn-primary">Buy Now</a>
             </div>
           </div>
           <div class="card">
-            <img src="k.png" class="card-img-top" alt="Product 3" width="200" height="200">
+            <img src="7.webp" class="card-img-top" alt="Product 2" width="200" height="200">
             <div class="card-body">
-              <h5 class="card-title">Product 3</h5>
-              <p class="card-text">Healthkart Calcium Tablets For Men & Women With Vitamin D3 For Complete Bone Health & Joint (60 No).</p>
+              <h5 class="card-title">Vaccine</h5>
+              <p class="card-text">A vaccine is a biological preparation that provides active acquired immunity to a particular infectious or malignant disease.</p>
+              <a href="#" class="btn btn-primary">Buy Now</a>
+            </div>
+          </div>
+          <div class="card">
+            <img src="8.jpg" class="card-img-top" alt="Product 3" width="200" height="200">
+            <div class="card-body">
+              <h5 class="card-title">Supplements</h5>
+              <p class="card-text">These include vitamins, minerals, herbs and botanicals, probiotics, and more.</p>
               <a href="#" class="btn btn-primary">Buy Now</a>
             </div>
           </div>
@@ -273,9 +286,9 @@ PRODUCT.HTML
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; 2024 PharmaCompany. All rights reserved.  BY Lingasri</p>
+    <p>&copy; 2024 PharmaCompany. All rights reserved.BY KARTHI KEYAN K(212223230101)</p>
   </footer>
-  <body background="a.png" style="background-repeat: no-repeat; background-size: cover;">
+  <body background="3.png" style="background-repeat: no-repeat; background-size: cover;">
 
 
   <!-- Bootstrap JS -->
@@ -286,7 +299,8 @@ PRODUCT.HTML
 </html>
 
 
-CONTACT.HTML
+
+contact.html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -341,7 +355,7 @@ CONTACT.HTML
           </div>
           <div class="form-group">
             <label for="message">Message</label>
-            <textarea class="form-control" id="message" rows="5" placeholder="Enter your message"></textarea>
+            <textarea class="form-control" id="message" rows=3" placeholder="Enter your message"></textarea>
           </div>
           <button type="submit" class="btn btn-primary">Submit</button>
         </form>
@@ -350,24 +364,28 @@ CONTACT.HTML
         <h2>PharmaCompany</h2>
         <address>
           <strong>Address:</strong><br>
-          123 ABC street, Chennai<br>
-          India, 632007<br><br>
+          NO:16/A,GINGEE T.K,VILLIPIURAM (DIST),<br>
+          India, 604210.<br><br>
           <strong>Email:</strong><br>
-          info@pharmacompany.com<br><br>
+          madhanraj@pharmacompany.com<br><br>
           <strong>Phone:</strong><br>
-          +1234567890
+          +91 6369636843
         </address>
       </div>
     </div>
   </div>
-  <body background="a.png" style="background-repeat: no-repeat; background-size: cover;">
+ 
+  <body background="12.avif" style="background-repeat: no-repeat; background-size: cover;">
 
-
+    <br>
+    <br>
   <!-- Footer -->
-  <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; 2024 PharmaCompany. All rights reserved.  BY Lingasri P</p>
+  <footer class="bg-dark text-white text-center py-4 mt-2 ">
+    <p>&copy; 2024 PharmaCompany. All rights reserved.BY KARTHI KEYAN K(212223230101)</p>
+
   </footer>
 
+![Screenshot (25)](https://github.com/Karthi051/Pharma/assets/148327224/730b951a-4746-494d-a5fb-dc987b5b613c)
   <!-- Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
@@ -375,16 +393,15 @@ CONTACT.HTML
 </body>
 </html>
 
-```
-
-
-
 
 ## OUTPUT:
-![image](https://github.com/Lingasri/Pharma/assets/143391929/23f8ee37-fce3-4453-880c-bd1e70abe28b)
-![image](https://github.com/Lingasri/Pharma/assets/143391929/d6f52c61-a793-4d7a-928f-5b5a7db43b5d)
-![image](https://github.com/Lingasri/Pharma/assets/143391929/94e8da8b-f6a8-4dc0-9062-ad6c43c1ea13)
-![image](https://github.com/Lingasri/Pharma/assets/143391929/bb2c01a8-413c-4bee-9bf5-97e45fdf47c5)
+![Screenshot (22)](https://github.com/Karthi051/Pharma/assets/148327224/4aa72f06-a524-43bd-9433-9189f68ab9a1)
+![Screenshot (23)](https://github.com/Karthi051/Pharma/assets/148327224/80716162-e77a-4b3a-85e9-03d22bf62df9)
+![Screenshot (24)](https://github.com/Karthi051/Pharma/assets/148327224/eeb80c31-cfd8-499b-b72e-8b4bd222a294)
+![Screenshot (25)](https://github.com/Karthi051/Pharma/assets/148327224/357a7cab-a463-44c0-891f-06cd02e50b2c)
+
+
+
 
 
 
