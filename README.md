@@ -385,7 +385,6 @@ contact.html
 
   </footer>
 
-![Screenshot (25)](https://github.com/Karthi051/Pharma/assets/148327224/730b951a-4746-494d-a5fb-dc987b5b613c)
   <!-- Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
