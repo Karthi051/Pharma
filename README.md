@@ -366,10 +366,10 @@ contact.html
         <h2>PharmaCompany</h2>
         <address>
           <strong>Address:</strong><br>
-          NO:16/A,GINGEE T.K,VILLIPIURAM (DIST),<br>
+          NO:16/A,THULAR ,ARIYALUR (DIST),<br>
           India, 604210.<br><br>
           <strong>Email:</strong><br>
-          madhanraj@pharmacompany.com<br><br>
+          KING@pharmacompany.com<br><br>
           <strong>Phone:</strong><br>
           +91 6369636843
         </address>
