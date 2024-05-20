@@ -27,6 +27,8 @@ Publish the website in the LocalHost.
 ## PROGRAM :
 
 
+
+
 home.html
 <!DOCTYPE html>
 <html lang="en">
@@ -95,7 +97,7 @@ home.html
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; 2024 PharmaCompany. All rights reserved. BY KARTHI KEYAN K(212223230101)</p>
+    <p>&copy; 2024 PharmaCompany. All rights reserved. BY K KARTHI KEYAN(212223230101)</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -176,7 +178,7 @@ about.html
   <body background="4.webp" style="background-repeat: no-repeat; background-size: cover;"></body>
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-3">
-    <p>&copy; 2024 PharmaCompany. All rights reserved.  BY KARTHI KEYAN K(212223230101)</p>
+    <p>&copy; 2024 PharmaCompany. All rights reserved.  BY  K KARTHIKEYAN(212223230101)</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -286,7 +288,7 @@ product.html
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; 2024 PharmaCompany. All rights reserved.BY KARTHI KEYAN K(212223230101)</p>
+    <p>&copy; 2024 PharmaCompany. All rights reserved.BY K KARTHIKEYAN(212223230101)</p>
   </footer>
   <body background="3.png" style="background-repeat: no-repeat; background-size: cover;">
 
@@ -381,7 +383,7 @@ contact.html
     <br>
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-2 ">
-    <p>&copy; 2024 PharmaCompany. All rights reserved.BY KARTHI KEYAN K(212223230101)</p>
+    <p>&copy; 2024 PharmaCompany. All rights reserved.BY K KARTHIKEYAN(212223230101)</p>
 
   </footer>
 
