@@ -28,7 +28,7 @@ Publish the website in the LocalHost.
 
 
 
-
+```
 home.html
 <!DOCTYPE html>
 <html lang="en">
@@ -393,6 +393,7 @@ contact.html
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
+```
 
 
 ## OUTPUT:
